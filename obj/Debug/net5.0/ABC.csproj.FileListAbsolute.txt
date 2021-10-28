@@ -1,0 +1,16 @@
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.csproj.AssemblyReference.cache
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.AssemblyInfoInputs.cache
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.AssemblyInfo.cs
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.csproj.CoreCompileInputs.cache
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ABC
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ABC.deps.json
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ABC.runtimeconfig.json
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ABC.runtimeconfig.dev.json
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ABC.dll
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ref/ABC.dll
+/home/marcos/Documentos/C#/ABC/bin/Debug/net5.0/ABC.pdb
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.dll
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ref/ABC.dll
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.pdb
+/home/marcos/Documentos/C#/ABC/obj/Debug/net5.0/ABC.genruntimeconfig.cache
